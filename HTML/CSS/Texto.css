@@ -1,0 +1,30 @@
+Body{
+background-color:080924;
+font-family:Courier New; 
+color:FFFFFF;
+}
+h1{
+font-family:Quacker Slate;
+font-size:34pt;
+color:FFF700;
+}
+h2{
+font-family:Intense Emotion;
+font-size:24pt;
+color:8FDC00;
+}
+ol{
+list-style-type:lower-roman;
+}
+table{
+text-align:center;
+margin:0.5pt;
+background-color:black 
+}
+td{
+border:1px double #FFF700;
+border-top:1px double #FFF700;
+border-right:1px double #FFF700;
+border-bottom:1px double #FFF700;
+border-left:1px double #FFF700;
+}

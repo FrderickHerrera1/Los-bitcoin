@@ -1,0 +1,43 @@
+body{
+Margin:0;
+}
+.header{
+font-family: Melon;
+background: #333;
+color: White;
+padding: 2rem 0;
+position:fixed;
+left: 0;
+top: 0;
+right: 0;
+font-size:42pt;
+}
+img{
+width:100px;
+height:100px;
+}
+.header a{
+color: white;
+text-decoration:none
+}
+.logo-nav-container{
+display:flex;
+justify-content: space-between;
+aling-items: center;
+}
+.logo{
+letter-spacing: 5px;
+font-size: 1.4em;
+}
+.navigation ul{
+margin: 0;
+padding: 0;
+list-style: none;
+}
+.navigation ul li{
+display: inline-block;
+}
+.navigation ul li a{
+display: block;
+padding: 0.5rem 1rem;
+}
